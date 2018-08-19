@@ -1,7 +1,7 @@
 # C-compiler
 CC=g++
 
-CFLAGS=-c -Wall
+CFLAGS=-Wall
 
 all: stableMatch.out
 
